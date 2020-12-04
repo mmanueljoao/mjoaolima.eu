@@ -3,7 +3,7 @@ section:
   name: Skills
   id: skills
   enable: true
-  weight: 2
+  weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -11,39 +11,38 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  icon: "/images/sections/skills/kubernetes.png"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
 
-- name: Go Development
-  icon: "/images/sections/skills/go.png"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+- name: Baroque Flute
+  # icon: "/images/sections/skills/linux.png"
+  summary: "Five (5) years of playing with replicas of historical instruments. My main instruments are a *A. Grenser* (1796) made by Boaz Berney and a *J. H. Rottenburgh* (1740) from ***. Both play at 415 Hz."
+  url: "#TODO"
 
-- name: Cloud Computing
-  icon: "/images/sections/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
-
-- name: Docker
-  icon: "/images/sections/skills/docker.svg"
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
-
-- name: Prometheus
-  icon: "/images/sections/skills/prometheus.png"
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
+- name: Dorico
+  # icon: "/images/sections/skills/dorico1.png"
+  summary: "Capable of producing concert-ready scores both while maintaining the essence of the original work and keeping the standards for modern publications. Samples available in Projects tab."
+  url: "https://new.steinberg.net/dorico/"
 
 - name: Linux
-  icon: "/images/sections/skills/linux.png"
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  # icon: "/images/sections/skills/linux.png"
+  summary: "Used a Linux distro for the last nine (9) years. Capable of maintenance tasks, some bash script but mostly a capacity of adjusting for what is needed. Ubuntu has been the main distro."
+  url: "https://ubuntu.com/"
 
-- name: Git
-  icon: "/images/sections/skills/git.png"
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  url: "https://git-scm.com/"
+- name: Windows
+  # icon: "/images/sections/skills/linux.png"
+  summary: "This is my main OS for everyday use. Yes, it's heavy. Yes, it isn't configurable as much. But the Microsoft suite is my main tool for administrative work and simple academia - also gaming."
+  url: "https://new.steinberg.net/dorico/"
 
-- name: C++
-  icon: "/images/sections/skills/c++.png"
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+- name: Microsoft 365
+  # icon: "/images/sections/skills/linux.png"
+  summary: "Capable of working with large databases with PowerQuery and importing to Excel: this allows for a simplistic approach to data analysis, useful for daily/weekly reports of performance. Yes, also Word and Microsoft."
+  url: "https://www.microsoft.com/microsoft-365"
+
+- name: Data Visualisation
+  # icon: "/images/sections/skills/linux.png"
+  summary: "Mainly PowerBI. Extremely useful for creating reports and simple handouts. The integration with the Microsoft Suite is a plus. I'm considering expanding into Python or Tableou."
+  url: "https://powerbi.microsoft.com/"
+
+- name: C# / DotNet
+  # icon: "/images/sections/skills/linux.png"
+  summary: "TODO"
+  url: "#TODO"

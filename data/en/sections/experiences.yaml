@@ -3,7 +3,7 @@ section:
   name: Experiences
   id: experiences
   enable: true
-  weight: 3
+  weight: 2
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true 
@@ -11,54 +11,38 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Mvsica Antiqva Porto
+    # url: "https://www.example.com"
+    location: Porto, Portugal
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Early Music group focused on interpretations of 18th century music using replicas of original instruments.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Musician
+    start: Feb 2017
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Managing a state of 'performance ready' for the various work that the group maintains.
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
+  - designation: House Engraver / House Librarian
+    start: Dec 2018
+    # end: Oct 2019
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Engraving necessary works using modern notation standards, be it from a manuscript, facsimile or other fonts. 
+    - Manage and curate the necessary material for the various group performances;
+    
 
 - company:
-    name: PreExample Co.
-    url: "https://www.preexample.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Intelcia
+    url: "https://www.intelcia.com/"
+    location: Porto, Portugal
+    overview: Major Customer Service outsourcing company based in more than eight (8) countries and 25 sites. We Dream, We Care, We Do.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Customer Support / Sales Assistant
+    start: Aug 2019
+    end: Nov 2020
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
-
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.intern.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
-  positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
-    responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Sales Assistant for portuguese communications company MEO; worked ranged from communications packages to eletrical energy packages;
+    - Market research of products of concurrent companies and presentation of its main points to other associates;
+    - Responsable for the preparation and lecture of a few seminars about "Creation and Management of Clients Needs" and "Working with Clients Objections".

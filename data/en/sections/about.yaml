@@ -12,7 +12,7 @@ designation: Early Music Specialist
 # your company information
 company:
   name: Wait ... you have a job ? 
-  url: "https://www.google.com"
+  url: /#experiences
 
 # your resume. this file path should be relative to you "static" directory
 # resume: "files/resume.pdf"
@@ -29,7 +29,7 @@ socialLinks:
 
 - name: Youtube
   icon: "fab fa-youtube"
-  url: "#"
+  url: "https://www.youtube.com/channel/UCGiKlLYuAkV265YZnOOpG-Q"
   
 - name: Twitter
   icon: "fab fa-twitter"
@@ -37,19 +37,19 @@ socialLinks:
 
 - name: Email
   icon: "fas fa-envelope"
-  url: "#"
+  url: "geral@mjoaolima.eu"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+# - name: Stackoverflow
+#   icon: "fab fa-stack-overflow"
+#   url: "#"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/mmanueljoao/"
 
 - name: Facebook
   icon: "fab fa-facebook"
-  url: "#"
+  url: "https://www.facebook.com/mmanueljoaol/"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
@@ -61,6 +61,6 @@ softSkills:
 - name: Team Work
   percentage: 80
   color: yellow
-- name: Patience Used
-  percentage: 90
+- name: Dream Work
+  percentage: 95
   color: pink
