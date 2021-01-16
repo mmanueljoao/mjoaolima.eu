@@ -11,6 +11,20 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Intelcia
+    url: "https://www.intelcia.com/"
+    location: Porto, Portugal
+    overview: Major Customer Service outsourcing company based in more than eight (8) countries and 25 sites. We Dream, We Care, We Do.
+  positions:
+  - designation: Customer Support / Sales Assistant
+    start: Aug 2019
+    end: Nov 2020
+    responsibilities:
+    - Sales Assistant for portuguese communications company MEO; worked ranged from communications packages to eletrical energy packages;
+    - Market research of products of concurrent companies and presentation of its main points to other associates;
+    - Responsable for the preparation and lecture of a few seminars about "Creation and Management of Clients Needs" and "Working with Clients Objections".
+    
+- company:
     name: Mvsica Antiqva Porto
     # url: "https://www.example.com"
     location: Porto, Portugal
@@ -33,16 +47,3 @@ experiences:
     - Manage and curate the necessary material for the various group performances;
     
 
-- company:
-    name: Intelcia
-    url: "https://www.intelcia.com/"
-    location: Porto, Portugal
-    overview: Major Customer Service outsourcing company based in more than eight (8) countries and 25 sites. We Dream, We Care, We Do.
-  positions:
-  - designation: Customer Support / Sales Assistant
-    start: Aug 2019
-    end: Nov 2020
-    responsibilities:
-    - Sales Assistant for portuguese communications company MEO; worked ranged from communications packages to eletrical energy packages;
-    - Market research of products of concurrent companies and presentation of its main points to other associates;
-    - Responsable for the preparation and lecture of a few seminars about "Creation and Management of Clients Needs" and "Working with Clients Objections".

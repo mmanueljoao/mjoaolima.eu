@@ -14,8 +14,8 @@ skills:
 
 - name: Baroque Flute
   # icon: "/images/sections/skills/linux.png"
-  summary: "Five (5) years of playing with replicas of historical instruments. My main instruments are a *A. Grenser* (1796) made by Boaz Berney and a *J. H. Rottenburgh* (1740) from ***. Both play at 415 Hz."
-  url: "#TODO"
+  summary: "Five (5) years of playing with replicas of historical instruments. My main instruments are a *A. Grenser* (1796) made by Boaz Berney and a *J. H. Rottenburgh* (1740). Both play at 415 Hz."
+  # url: "#TODO"
 
 - name: Dorico
   # icon: "/images/sections/skills/dorico1.png"
@@ -30,7 +30,7 @@ skills:
 - name: Windows
   # icon: "/images/sections/skills/linux.png"
   summary: "This is my main OS for everyday use. Yes, it's heavy. Yes, it isn't configurable as much. But the Microsoft suite is my main tool for administrative work and simple academia - also gaming."
-  url: "https://new.steinberg.net/dorico/"
+  # url: "https://new.steinberg.net/dorico/"
 
 - name: Microsoft 365
   # icon: "/images/sections/skills/linux.png"
@@ -42,7 +42,7 @@ skills:
   summary: "Mainly PowerBI. Extremely useful for creating reports and simple handouts. The integration with the Microsoft Suite is a plus. I'm considering expanding into Python or Tableou."
   url: "https://powerbi.microsoft.com/"
 
-- name: C# / DotNet
-  # icon: "/images/sections/skills/linux.png"
-  summary: "TODO"
-  url: "#TODO"
+# - name: C# / DotNet
+#   icon: "/images/sections/skills/linux.png"
+#   summary: "TODO"
+#   url: "#TODO"

@@ -4,12 +4,19 @@ languageCode: en
 title: "a personal space"
 theme: "toha"
 
+
+disableLanguages: pt
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
 languages:
   en:
     languageName: English
+    contentDir: content/en
     weight: 1
+  pt:
+    languageName: Português
+    contentDir: content/pt
+    weight: 2
 
 # Control TOC depth
 markup:
@@ -30,9 +37,14 @@ params:
   enableBlogPost: false
 
   # specify whether you want to show Table of Contents in reading page
-  enableTOC: true
+  enableTOC: false
 
   # Provide newsletter configuration. This feature hasn't been implemented yet.
   # Currently, you can just hide it from the footer.
   newsletter:
     enable: false
+
+  logo:
+    main: images/greetings.png
+    inverted: images/greetings.png
+    favicon: images/greetings.png
