@@ -44,7 +44,8 @@ params:
   newsletter:
     enable: false
 
+  background: "images/site/background.jpg"
   logo:
-    main: static/images/greetings.png
-    inverted: static/images/greetings.png
-    favicon: static/images/greetings.png
+    main: images/greetings.png
+    inverted: images/greetings.png
+    favicon: images/greetings.png
