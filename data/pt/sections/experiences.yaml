@@ -1,0 +1,49 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Intelcia
+    url: "https://www.intelcia.com/"
+    location: Porto, Portugal
+    overview: Major Customer Service outsourcing company based in more than eight (8) countries and 25 sites. We Dream, We Care, We Do.
+  positions:
+  - designation: Customer Support / Sales Assistant
+    start: Aug 2019
+    end: Nov 2020
+    responsibilities:
+    - Sales Assistant for portuguese communications company MEO; worked ranged from communications packages to eletrical energy packages;
+    - Market research of products of concurrent companies and presentation of its main points to other associates;
+    - Responsable for the preparation and lecture of a few seminars about "Creation and Management of Clients Needs" and "Working with Clients Objections".
+    
+- company:
+    name: Mvsica Antiqva Porto
+    # url: "https://www.example.com"
+    location: Porto, Portugal
+    # company overview
+    overview: Early Music group focused on interpretations of 18th century music using replicas of original instruments.
+  positions:
+  - designation: Musician
+    start: Feb 2017
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Managing a state of 'performance ready' for the various work that the group maintains.
+
+  - designation: House Engraver / House Librarian
+    start: Dec 2018
+    # end: Oct 2019
+    responsibilities:
+    - Engraving necessary works using modern notation standards, be it from a manuscript, facsimile or other fonts. 
+    - Manage and curate the necessary material for the various group performances;
+    
+
