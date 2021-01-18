@@ -45,7 +45,7 @@ params:
     enable: false
 
   background: images/site/background.jpg
-  logo:
-    main: images/site/main-logo.png
-    inverted: images/site/inverted-logo.png
-    favicon: images/site/favicon.png
+  # logo:
+  #   main: images/site/main-logo.png
+  #   inverted: images/site/inverted-logo.png
+  #   favicon: images/site/favicon.png
