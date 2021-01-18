@@ -18,7 +18,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am something that I will write about later.'
+summary: 'Eager to learn and hard working. I have a special interest in finding solutions to problems that you do not yet have. Early music is a passion that I would adore making into a real part of my networth.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -62,9 +62,9 @@ softSkills:
 - name: Team Work
   percentage: 85
   color: yellow
-# - name: "Public Speaker"
-#   percentage: 70
-#   color: pink
+- name: "Public Speaker"
+  percentage: 70
+  color: orange
 - name: Research
   percentage: 85
   color: pink
