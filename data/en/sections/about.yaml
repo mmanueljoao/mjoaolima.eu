@@ -18,7 +18,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'Eager to learn and hard working. I have a special interest in finding solutions to problems that you do not yet have. Early music is a passion that I would adore making into a real part of my networth.'
+summary: 'I am a hardworking, motivated and introverted, but sociable, individual. I have a special interest in finding solutions to problems that you do not yet have. Early music is a passion that I would adore making into a real part of my net worth. Still, engineering is a way of thinking that can be applied to a multitude of problems. Right now, and given the current times, I am switching gears into my original field: this means getting back to university and restarting a whole new learning process.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -56,15 +56,18 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Compassion
-  percentage: 80
+- name: Empathy
+  percentage: 90
   color: blue
 - name: Team Work
   percentage: 85
   color: yellow
 - name: "Public Speaker"
-  percentage: 70
+  percentage: 65
   color: orange
 - name: Research
-  percentage: 85
+  percentage: 80
   color: pink
+- name: Adaptability 
+  percentage: 75
+  color: sky

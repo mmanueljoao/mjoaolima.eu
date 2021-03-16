@@ -19,12 +19,12 @@ skills:
 
 - name: Dorico
   # icon: "/images/sections/skills/dorico1.png"
-  summary: "Capable of producing concert-ready scores both while maintaining the essence of the original work and keeping the standards for modern publications. Samples available in Projects tab."
+  summary: "Capable of producing concert-ready scores both while maintaining the essence of the original work and striving for modern publications standards." # Samples available in Projects tab."
   url: "https://new.steinberg.net/dorico/"
 
 - name: Linux
   # icon: "/images/sections/skills/linux.png"
-  summary: "Used a Linux distro for the last nine (9) years. Capable of maintenance tasks, some bash script but mostly a capacity of adjusting for what is needed. Ubuntu has been the main distro."
+  summary: "Used a Linux distro for the last nine (9) years. Capable of maintenance tasks, some bash/zsh scripting but mostly a capacity of adjusting for what is needed. Ubuntu based distros have been the main flavor."
   url: "https://ubuntu.com/"
 
 - name: Windows
@@ -34,12 +34,12 @@ skills:
 
 - name: Microsoft 365
   # icon: "/images/sections/skills/linux.png"
-  summary: "Capable of working with large databases with PowerQuery and importing to Excel: this allows for a simplistic approach to data analysis, useful for daily/weekly reports of performance. Yes, also Word and Microsoft."
+  summary: "Capable of working with large databases with PowerQuery and importing to Excel: this allows for a simplistic approach to data analysis, useful for daily/weekly reports of performance. Yes, also Word and PowerPoint."
   url: "https://www.microsoft.com/microsoft-365"
 
 - name: Data Visualisation
   # icon: "/images/sections/skills/linux.png"
-  summary: "Mainly PowerBI. Extremely useful for creating reports and simple handouts. The integration with the Microsoft Suite is a plus. I'm considering expanding into Python or Tableou."
+  summary: "Mainly PowerBI. Extremely useful for creating reports and simple handouts. The integration with the Microsoft Suite is a plus. I'm considering expanding into Python."
   url: "https://powerbi.microsoft.com/"
 
 # - name: C# / DotNet

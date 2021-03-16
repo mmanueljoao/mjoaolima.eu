@@ -1,6 +1,6 @@
 # section information
 section:
-  name: About
+  name: Sobre
   id: about
   enable: true
   weight: 1
@@ -8,17 +8,18 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Early Music Specialist
+designation: Formado em Música Antiga
 # your company information
 company:
-  name: Wait ... you have a job ? 
+  name: Wait ... ainda trabalhas? 
   url: /#experiences
 
 # your resume. this file path should be relative to you "static" directory
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'Eager to learn and hard working. I have a special interest in finding solutions to problems that you do not yet have. Early music is a passion that I would adore making into a real part of my networth.'
+summary: 'I am a hardworking, motivated and introverted, but sociable, individual. I have a special interest in finding solutions to problems that you do not yet have. Early music is a passion that I would adore making into a real part of my net worth. Still, engineering is a way of thinking that can be applied to a multitude of problems. Right now, and given the current times, I am switching gears into my original field: this means getting back to university and restarting a whole new learning process.'
+summary: ''
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -56,15 +57,18 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Compassion
-  percentage: 80
+- name: Empatia
+  percentage: 90
   color: blue
-- name: Team Work
+- name: "Trab. de Equipa"
   percentage: 85
   color: yellow
-- name: "Public Speaker"
-  percentage: 70
+- name: Oralidade
+  percentage: 65
   color: orange
-- name: Research
-  percentage: 85
+- name: Pesquisa
+  percentage: 80
   color: pink
+- name: Versatilidade 
+  percentage: 75
+  color: sky

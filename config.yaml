@@ -25,13 +25,18 @@ markup:
     endLevel: 5
     ordered: false
 
+outputs:
+  home:
+    - HTML
+    # - JSON
+    
 # Enable global emoji support
 enableEmoji: false
 
 # Site parameters
 params:
   # GitHub repo URL of your site
-  gitRepo: https://github.com/mmanueljoao/mjoaolima.eu
+  # gitRepo: https://github.com/mmanueljoao/mjoaolima.eu
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: false
