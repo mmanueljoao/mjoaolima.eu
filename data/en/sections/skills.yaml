@@ -24,7 +24,7 @@ skills:
 
 - name: Linux
   # icon: "/images/sections/skills/linux.png"
-  summary: "Used a Linux distro for the last nine (9) years. Capable of maintenance tasks, some bash/zsh scripting but mostly a capacity of adjusting for what is needed. Ubuntu based distros have been the main flavor."
+  summary: "Used a Linux distro for the last nine (9) years. Capable of maintenance tasks, some bash scripting but mostly a capacity of adjusting for what is needed. Ubuntu based distros are the main flavor with a splash of Arch."
   url: "https://ubuntu.com/"
 
 - name: Windows

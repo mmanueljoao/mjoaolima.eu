@@ -1,11 +1,10 @@
 ---
-title: "Markdown Samples"
-date: 2020-11-08T08:06:25+06:00
-hero: /posts/markdown-sample/hero.svg
+title: "Markdown এর নমুনা"
+date: 2020-06-08T08:06:25+06:00
 description: Markdown rendering samples
 menu:
   sidebar:
-    name: Markdown Sample
+    name: Markdown এর নমুনা
     identifier: markdown
     weight: 30
 author:
@@ -14,13 +13,13 @@ author:
 math: true
 ---
 
-This is a sample post intended to test the followings:
+এই নমুনা পোস্টটি এই বিষয়গুলো পরীক্ষা করার জন্যে করা হয়েছেঃ
 
-- A different post author.
-- Table of contents.
-- Markdown content rendering.
-- Math rendering.
-- Emoji rendering.
+- একজন ভিন্ন পোস্ট লেখক।
+- সূচীপত্র।
+- Markdown কন্টেন্ট রেন্ডারিং।
+- গণিত রেন্ডারিং।
+- ইমোজি রেন্ডারিং।
 
 ---
 # Markdown Syntax Rendering
