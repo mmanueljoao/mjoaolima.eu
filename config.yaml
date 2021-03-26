@@ -11,11 +11,9 @@ theme: "toha"
 languages:
   en:
     languageName: English
-    contentDir: content/en
     weight: 1
   pt:
     languageName: Português
-    contentDir: content/pt
     weight: 2
 
 # Control TOC depth
