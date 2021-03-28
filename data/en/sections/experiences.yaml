@@ -11,6 +11,25 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: JPS Informática
+    url: "https://www.jpsinformatica.pt/"
+    location: Marco de Canaveses, Portugal
+    overview: Eletronics and Networking solutions for businesses and sales and repairs for consumers products.
+  positions:
+    - designation: Contact Manager for inter-companies comunications.
+      start: Mar 2021
+      responsibilities:
+      - Managing contacts with enterprise clients, giving assistence in all SAGE related needs.
+      - Assessing their needs in regard of eletronics and networking needs. 
+      - Creation and deployment of networking solutions on premises.
+    - designation: Repair and sales representative on premises.
+      start: Mar 2021
+      responsibilities:
+      - Helping consumers understand their needs and what solutions are available for them.
+      - Preping equipments for repair on premises or for shipping when repairs need to be done offsite.
+      - Triage of equipments, both on premises or remote, allowing better management of dispended time on resolution.  
+    
+- company:
     name: Intelcia
     url: "https://www.intelcia.com/"
     location: Porto, Portugal
@@ -18,6 +37,7 @@ experiences:
   positions:
   - designation: Outbound Customer Service Representative
     start: Dec 2020
+    end: Mar 2021
     responsibilities:
     - Responsible for transmitting and verifying that health providers comply with certain criteria. 
     - In that regard, responsible for contacting those registered providers and assist them into compliance with regent norms and procedures.
@@ -28,7 +48,7 @@ experiences:
     - Sales Assistant for portuguese communications company MEO; worked ranged from communications packages to eletrical energy packages;
     - Market research of products of concurrent companies and presentation of its main points to other associates;
     - Responsible for the preparation and lecture of a few seminars about "Creation and Management of Clients Needs" and "Working with Clients Objections".
-    
+
 - company:
     name: Mvsica Antiqva Porto
     # url: "https://www.example.com"
@@ -50,5 +70,3 @@ experiences:
     responsibilities:
     - Engraving necessary works using modern notation standards, be it from a manuscript, facsimile or other fonts. 
     - Manage and curate the necessary material for the various group performances;
-    
-

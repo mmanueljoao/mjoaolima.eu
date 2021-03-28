@@ -8,13 +8,13 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Early Music Specialist
+designation: "Software and Network Solutions"
 # your company information
 company:
-  name: Wait ... you have a job ? 
+  name: JPS Informática 
   url: /#experiences
 
-# your resume. this file path should be relative to you "static" directory
+# your resume. this file path should be relative to your "static" directory
 # resume: "files/resume.pdf"
 
 # a summary about you
@@ -23,6 +23,10 @@ summary: 'I am a hardworking, motivated and introverted, but sociable, individua
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
+- name: Instagram
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/mmanueljoao/"
+  
 - name: Github
   icon: "fab fa-github"
   url: "https://www.github.com/mmanueljoao"
@@ -47,9 +51,6 @@ socialLinks:
 #   icon: "fab fa-stack-overflow"
 #   url: "#"
 
-# - name: Facebook
-#   icon: "fab fa-facebook"
-#   url: "https://www.facebook.com/mmanueljoaol/"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.

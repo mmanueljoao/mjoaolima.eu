@@ -12,6 +12,21 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
 
+- name: Linux
+  # icon: "/images/sections/skills/linux.png"
+  summary: "Used a Linux distro for the last nine (9) years. Capable of maintenance tasks, some bash scripting but mostly a capacity of adjusting for what is needed. Ubuntu based distros are the main flavor with a splash of Arch."
+  url: "https://ubuntu.com/"
+
+- name: Windows
+  # icon: "/images/sections/skills/linux.png"
+  summary: "This is my main OS for everyday use. Yes, it's heavy. Yes, it isn't configurable as much. But the Microsoft suite is my main tool for administrative work and simple academia - also gaming."
+  # url: "https://new.steinberg.net/dorico/"
+
+- name: Data Visualisation
+  # icon: "/images/sections/skills/linux.png"
+  summary: "Mainly PowerBI. Extremely useful for creating reports and simple handouts. The integration with the Microsoft Suite is a plus. I'm considering expanding into Python."
+  url: "https://powerbi.microsoft.com/"
+
 - name: Baroque Flute
   # icon: "/images/sections/skills/linux.png"
   summary: "Five (5) years of playing with replicas of historical instruments. My main instruments are a *A. Grenser* (1796) made by Boaz Berney and a *J. H. Rottenburgh* (1740). Both play at 415 Hz."
@@ -22,25 +37,11 @@ skills:
   summary: "Capable of producing concert-ready scores both while maintaining the essence of the original work and striving for modern publications standards." # Samples available in Projects tab."
   url: "https://new.steinberg.net/dorico/"
 
-- name: Linux
-  # icon: "/images/sections/skills/linux.png"
-  summary: "Used a Linux distro for the last nine (9) years. Capable of maintenance tasks, some bash/zsh scripting but mostly a capacity of adjusting for what is needed. Ubuntu based distros have been the main flavor."
-  url: "https://ubuntu.com/"
-
-- name: Windows
-  # icon: "/images/sections/skills/linux.png"
-  summary: "This is my main OS for everyday use. Yes, it's heavy. Yes, it isn't configurable as much. But the Microsoft suite is my main tool for administrative work and simple academia - also gaming."
-  # url: "https://new.steinberg.net/dorico/"
-
 - name: Microsoft 365
   # icon: "/images/sections/skills/linux.png"
   summary: "Capable of working with large databases with PowerQuery and importing to Excel: this allows for a simplistic approach to data analysis, useful for daily/weekly reports of performance. Yes, also Word and PowerPoint."
   url: "https://www.microsoft.com/microsoft-365"
 
-- name: Data Visualisation
-  # icon: "/images/sections/skills/linux.png"
-  summary: "Mainly PowerBI. Extremely useful for creating reports and simple handouts. The integration with the Microsoft Suite is a plus. I'm considering expanding into Python."
-  url: "https://powerbi.microsoft.com/"
 
 # - name: C# / DotNet
 #   icon: "/images/sections/skills/linux.png"
