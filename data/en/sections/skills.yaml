@@ -14,7 +14,7 @@ skills:
 
 - name: Linux
   # icon: "/images/sections/skills/linux.png"
-  summary: "Used a Linux distro for the last nine (9) years. Capable of maintenance tasks, some bash scripting but mostly a capacity of adjusting for what is needed. Ubuntu based distros are the main flavor with a splash of Arch."
+  summary: "Used a Linux distro for the last nine (9) years. Capable of day-to-day use, maintenance tasks and some bash scripting. Ubuntu based distros are the main flavor - with a splash of Arch."
   url: "https://ubuntu.com/"
 
 - name: Windows
@@ -34,12 +34,12 @@ skills:
 
 - name: Dorico
   # icon: "/images/sections/skills/dorico1.png"
-  summary: "Capable of producing concert-ready scores both while maintaining the essence of the original work and striving for modern publications standards." # Samples available in Projects tab."
+  summary: "Capable of producing concert-ready scores both while maintaining the essence of the original work and striving for modern publications standards. Works display is a work in progress." # Samples available in Projects tab."
   url: "https://new.steinberg.net/dorico/"
 
 - name: Microsoft 365
   # icon: "/images/sections/skills/linux.png"
-  summary: "Capable of working with large databases with PowerQuery and importing to Excel: this allows for a simplistic approach to data analysis, useful for daily/weekly reports of performance. Yes, also Word and PowerPoint."
+  summary: "Capable of working with large databases with PowerQuery and importing to Excel. Confidant use of other applications. Some experience in managing users for organizations."
   url: "https://www.microsoft.com/microsoft-365"
 
 
